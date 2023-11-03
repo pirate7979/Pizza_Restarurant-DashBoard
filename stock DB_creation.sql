@@ -1,0 +1,2 @@
+create table stock1(item_name varchar(50), ing_id varchar(20), ing_name varchar(50), ing_weigh int, ing_price decimal(5,2), order_qunatity int, recipe_quantity int, ordered_weight int, unit_cost decimal(5,2), ingredient_cost decimal(5,2))
+select * from stock1 
